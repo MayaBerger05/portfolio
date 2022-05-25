@@ -3056,7 +3056,7 @@ input {
 .text-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: url(/img/main/section/footer.jpg) top/cover no-repeat;
+  background: url(../img/main/section/footer.jpg) top/cover no-repeat;
 }
 @media (max-width: 1590px) {
   .text-footer {
