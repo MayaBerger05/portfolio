@@ -2208,7 +2208,7 @@ h3:not(:last-child) {
 
 .products-new {
   position: relative;
-  background: url("/img/main/section/1.webp") bottom/cover no-repeat;
+  background: url("../img/main/section/1.jpg") bottom/cover no-repeat;
   padding: 2.8125rem 0px 0px 0px;
 }
 .products-new::before {
@@ -2231,7 +2231,7 @@ h3:not(:last-child) {
 @media (min-width: 61.99875em) {
   .products-new__container {
     grid-template-columns: 25rem 1fr;
-    align-items: flex-start;
+    align-self: flex-start;
   }
 }
 .products-new__body {
@@ -3396,7 +3396,7 @@ input {
   font-size: 1.875rem;
   font-weight: 700;
   line-height: 1.2333333333;
-  background-image: url("img/product/Vector.svg") right no-repeat;
+  background-image: url("../img/product/Vector.svg") right no-repeat;
   padding-right: 1.5625rem;
 }
 .actions-product__price:not(:last-child) {
