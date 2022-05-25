@@ -3396,7 +3396,7 @@ input {
   font-size: 1.875rem;
   font-weight: 700;
   line-height: 1.2333333333;
-  background-image: url("../img/product/Vector.svg") right no-repeat;
+  background: url("../img/product/rub.svg") right no-repeat;
   padding-right: 1.5625rem;
 }
 .actions-product__price:not(:last-child) {
